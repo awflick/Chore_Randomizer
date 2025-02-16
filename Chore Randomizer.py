@@ -1,4 +1,6 @@
 # Chore Randomizer Program
+# Adam Flick
+# December 2024
 
 import random
 import json
