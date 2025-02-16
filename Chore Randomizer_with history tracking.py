@@ -1,4 +1,6 @@
-# Chore Randomizer Program
+# Chore Randomizer Program (History Tracking Version)
+# Adam Flick
+# December 2024
 
 import random
 import json
